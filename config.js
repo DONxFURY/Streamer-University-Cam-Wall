@@ -10,6 +10,13 @@ const STREAMS = [
   "https://player.twitch.tv/?channel=lacy&parent=donxfury.github.io",
   "https://player.twitch.tv/?channel=ddg&parent=donxfury.github.io",
   "https://player.twitch.tv/?channel=agent00&parent=donxfury.github.io",
+  "https://player.twitch.tv/?channel=tylil&parent==donxfury.github.io",
+  "https://player.twitch.tv/?channel=ninadaddyisback&parent=donxfury.github.io",
+  "https://player.twitch.tv/?channel=stableronaldo&parent=donxfury.github.io",
+  "https://player.twitch.tv/?channel=j1loose&parent=donxfury.github.io",
+  "https://player.twitch.tv/?channel=wabewrld&parent=donxfury.github.io",
+  "https://player.twitch.tv/?channel=totaamc&parent=donxfury.github.io",
+  "https://player.twitch.tv/?channel=rayasianboy&parent=donxfury.github.io",
   "https://player.twitch.tv/?channel=marlon&parent=donxfury.github.io"
 ];
 
