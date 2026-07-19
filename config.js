@@ -6,8 +6,11 @@ const PARENT_DOMAIN = "donxfury.github.io";
 // Add or remove iframe URLs here.
 const STREAMS = [
   "https://player.twitch.tv/?channel=kaicenat&parent=donxfury.github.io",
-  "https://player.twitch.tv/?channel=shroud&parent=YOURNAME.github.io",
-  "https://player.twitch.tv/?channel=xqc&parent=YOURNAME.github.io"
+  "https://player.twitch.tv/?channel=2xrakai&parent=donxfury.github.io",
+  "https://player.twitch.tv/?channel=lacy&parent=donxfury.github.io",
+  "https://player.twitch.tv/?channel=ddg&parent=donxfury.github.io",
+  "https://player.twitch.tv/?channel=agent00&parent=donxfury.github.io",
+  "https://player.twitch.tv/?channel=marlon&parent=donxfury.github.io"
 ];
 
 // You can also use multiline strings if you prefer:
