@@ -1,7 +1,7 @@
 // Edit only this file.
 
 // Replace with your GitHub Pages domain or custom domain.
-const PARENT_DOMAIN = "YOURNAME.github.io";
+const PARENT_DOMAIN = "donxfury.github.io";
 
 // Add or remove iframe URLs here.
 const STREAMS = [
